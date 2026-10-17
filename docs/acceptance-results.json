@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-17",
+  "unit_tests_passed": 15,
+  "independent_acceptance": {
+    "passed": true,
+    "scenario_count": 21,
+    "completed_tasks": 10,
+    "isolated_create_calls": 20,
+    "live_cli_calls": 0,
+    "real_bitable_writes": 0,
+    "failures": []
+  },
+  "installation": {
+    "production_state_counts": {
+      "sessions": 0,
+      "messages": 0,
+      "writes": 0
+    },
+    "real_cli_actions": [
+      "schema"
+    ],
+    "private_config_mode": "0o600",
+    "live_schema_confirmed": true
+  },
+  "portability": {
+    "passed": true,
+    "host": "doubao",
+    "codex_environment_removed": true,
+    "moved_directory": true,
+    "real_bitable_writes": 0
+  },
+  "archive_sha256": "522a55823c2c953a01c4c6acf7f120dc3d631383afe21f74217e358a7833f20b",
+  "installed_path": "~/.codex/skills/feishu-bookkeeping",
+  "release_file_count": 31
+}

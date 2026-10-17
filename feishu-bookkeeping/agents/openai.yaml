@@ -1,0 +1,6 @@
+interface:
+  display_name: "记账小助手"
+  short_description: "按个人分类规则处理人民币消费，通过受限工具新增至固定飞书账本。"
+  default_prompt: "请使用 $feishu-bookkeeping 帮我记账："
+policy:
+  allow_implicit_invocation: true
